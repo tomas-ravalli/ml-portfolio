@@ -1,2 +1,10 @@
-# ml-portfolio
-My portfolio of applied machine learning projects.
+# 🗃️ ml-portfolio
+> My portfolio of applied machine learning projects.
+
+* Developed a [stadium seat availability forecaster](https://github.com/tomas-ravalli/seat-availability-engine), a predictive model to manage ticketing inventory based on forecasted demand.
+* Built a [dynamic pricing engine](https://github.com/tomas-ravalli/dynamic-pricing-engine) that serves as a control panel to simulate and test various pricing policies.
+* Created a [GenAI tool for optimal recipe creation](https://github.com/tomas-ravalli/recipes-gen-engine) to analyze market trends and cut the R&D cycle from months to days.
+* Implemented [Bayesian marketing mix models](https://github.com/tomas-ravalli/nes-marketing-mix-modeling) to quantify marketing impact and optimize budget allocation.
+
+</br>
+<p align="center">🌐 © 2025 t.r.</p>
